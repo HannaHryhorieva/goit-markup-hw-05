@@ -449,6 +449,9 @@ li {
 .footer-social-link:focus {
   background-color: #2196f3;
 }
+
+/* Pop Up */
+
 .backdrop {
   position: fixed;
   top: 0;
